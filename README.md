@@ -8,3 +8,4 @@ In this project, we will be storing the names and prices of a furniture store’
 
 **Please note: Projects do not run tests against your code. This experience is more open to your interpretation and gives you the freedom to explore. Remember that all variables must be declared before they are referenced in your code.
 
+# [Receipt Script](https://github.com/Lodoelama/Codecademy-projects/blob/main/receipt_script.py)
