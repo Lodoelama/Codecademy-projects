@@ -6,7 +6,7 @@ We’ve decided to pursue the dream of small-business ownership and open up a fu
 
 In this project, we will be storing the names and prices of a furniture store’s catalog in variables. You will then process the total price and item list of customers, printing them to the output terminal.
 
-**Please note: Projects do not run tests against your code. This experience is more open to your interpretation and gives you the freedom to explore. Remember that all variables must be declared before they are referenced in your code.
+Please note: Projects do not run tests against your code. This experience is more open to your interpretation and gives you the freedom to explore. Remember that all variables must be declared before they are referenced in your code.
 
 # [Receipt Script](https://github.com/Lodoelama/Codecademy-projects/blob/main/receipt_script.py)
 
@@ -44,7 +44,7 @@ Over 2 lb but less than or equal to 6 lb	$9.00	$0.00
 Over 6 lb but less than or equal to 10 lb	$12.00	$0.00
 Over 10 lb	$14.25	$0.00
 
-**Write a shipping.py Python program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using Sal’s Shippers.
+Write a shipping.py Python program that asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package using Sal’s Shippers.
 
 # [Sals Script](https://github.com/Lodoelama/Codecademy-projects/blob/main/sals_script.py)
 
@@ -52,7 +52,7 @@ Over 10 lb	$14.25	$0.00
 # Magic 8-Ball
 The Magic 8-Ball is a popular toy developed in the 1950s for fortune-telling or advice seeking.
 
-**Write a magic8.py Python program that can answer any “Yes” or “No” question with a different fortune each time it executes.
+Write a magic8.py Python program that can answer any “Yes” or “No” question with a different fortune each time it executes.
 
 Magic 8-Ball, should I do this project?
 
@@ -72,26 +72,26 @@ The output of the program will have the following format:
 [Name] asks: [Question]
 Magic 8-Ball’s answer: [Answer]
 
-[8 Ball Script](https://github.com/Lodoelama/Codecademy-projects/blob/main/8ball.py)
+# [8 Ball Script](https://github.com/Lodoelama/Codecademy-projects/blob/main/8ball.py)
 
 
 # Len's Slice
-You work at Len’s Slice, a new pizza joint in the neighborhood. **You are going to use your knowledge of Python lists to organize some of your sales data.
+You work at Len’s Slice, a new pizza joint in the neighborhood. You are going to use your knowledge of Python lists to organize some of your sales data.
 
 # [Lens Script](https://github.com/Lodoelama/Codecademy-projects/blob/main/lens.py)
 
 # Gradebook
-You are a student and you are trying to organize your subjects and grades using **Python**. Let’s explore what we’ve learned about lists to organize your subjects and scores.
+You are a student and you are trying to organize your subjects and grades using Python. Let’s explore what we’ve learned about lists to organize your subjects and scores.
 
 # [Gradebook](https://github.com/Lodoelama/Codecademy-projects/blob/main/gradebook.py)
 
 ## Getting Ready for Physics Class
-You are a physics teacher preparing for the upcoming semester. You want to provide your students with some **functions that will help them calculate some fundamental physical properties.
+You are a physics teacher preparing for the upcoming semester. You want to provide your students with some functions that will help them calculate some fundamental physical properties.
 
 # [Physics Class Script](https://github.com/Lodoelama/Codecademy-projects/blob/main/physics.py)
 
 # Carly's Clippers
-You are the Data Analyst at Carly’s Clippers, the newest hair salon on the block. Your job is to **go through the lists of data that have been collected in the past couple of weeks. You will be calculating some important metrics that Carly can use to plan out the operation of the business for the rest of the month.
+You are the Data Analyst at Carly’s Clippers, the newest hair salon on the block. Your job is to go through the lists of data that have been collected in the past couple of weeks. You will be calculating some important metrics that Carly can use to plan out the operation of the business for the rest of the month.
 
 You have been provided with three lists:
 
