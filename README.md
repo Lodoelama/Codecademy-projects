@@ -1,1 +1,3 @@
-# codecademy-projects
+# Codecademy-projects
+
+Python 3 
